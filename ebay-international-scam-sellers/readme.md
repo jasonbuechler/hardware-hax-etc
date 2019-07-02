@@ -2,5 +2,6 @@
 
 ## Beware int'l sales where the delivery window is extremely long
 
-![purchase-history.png]
-![inbox.png]
+![](purchase-history.png)
+
+![](inbox.png)
