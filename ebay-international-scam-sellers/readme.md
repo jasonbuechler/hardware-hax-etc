@@ -10,9 +10,10 @@ In fact, they seem to go out of their way to make it difficult by not automatica
 
 **They will even "break" the item's image and remove its title & description!!** ...so when you scroll through your purchases, you don't see the item for which they're accomplices in fraud.
 
+![](purchase-history.png)
 
-![purchase-history.png]
-![inbox.png]
+![](inbox.png)
+
 
 ## And IF you remember to hunt-down your refund...
 
