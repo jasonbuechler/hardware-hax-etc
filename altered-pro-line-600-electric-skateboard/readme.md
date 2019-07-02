@@ -34,3 +34,7 @@
 * 10x of these premium cells have (10*2.5Ah) = 25Ah total (nominal) energy
   * (vs 3*9Ah = 27Ah total (nominal) energy for 3x lead acid beasts)
   * Total weight of (10* ~45g) = ~1.0 lb
+* Beware inexperienced and foreign sellers on eBay
+  * it's technically possible to find a 10-pack of high-drain cells for $35-$40: https://www.ebay.com/itm/302938203030
+  * google how to verify capacity and drain-current
+  * verify your cells are legit when they arrive and demand a refund if not
