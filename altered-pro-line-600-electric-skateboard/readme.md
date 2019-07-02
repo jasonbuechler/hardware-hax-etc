@@ -9,8 +9,10 @@
 
 ## Power manifest
 * Model: SG1290T2 by S-PS (?)
+  * Spec sheet: [SG1290T2-12v-9ah_sla-battery-with-t2-terminals.pdf](SG1290T2-12v-9ah_sla-battery-with-t2-terminals.pdf)
 * 3x 9Ah *(cough, cough)* lead-acid cells @ 12V each
 * Total 36V producing 600W @ (600/36)A = ~17A
+* Total weight of (3*5.5 lbs each) = ~17 lbs
 * [pro-line-600-replacement-batteries.jpg](pro-line-600-replacement-batteries.jpg)
 
 # Lithium conversion
@@ -31,3 +33,4 @@
 * cells are more expensive and frequently sold as relabeled inferior cells
 * 10x of these premium cells have (10*2.5Ah) = 25Ah total (nominal) energy
   * (vs 3*9Ah = 27Ah total (nominal) energy for 3x lead acid beasts)
+  * Total weight of (10* ~45g) = ~1.0 lb
