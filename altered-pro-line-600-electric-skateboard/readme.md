@@ -5,13 +5,13 @@
 * Model: SCM4-8240b by Senchuan Electric Machinery Co., LTD
 * 600W power @ 36V
 * 3800 +/- 5% rpm
-[pro-line-600-motor.jpg]
+* [pro-line-600-motor.jpg](pro-line-600-motor.jpg)
 
 ## Power manifest
 * Model: SG1290T2 by S-PS (?)
 * 3x 9Ah *(cough, cough)* lead-acid cells @ 12V each
 * Total 36V producing 600W @ (600/36)A = ~17A
-[pro-line-600-replacement-batteries.jpg]
+* [pro-line-600-replacement-batteries.jpg](pro-line-600-replacement-batteries.jpg)
 
 # Lithium conversion
 
