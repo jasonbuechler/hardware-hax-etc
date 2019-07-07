@@ -9,14 +9,15 @@
 
 It appears if you want to utilize the 3s or 4s BMS capability, you need to:
 * short some pads next to the controller (like jumpers on a motherboard) **and**
-* short B- to B1 (for 4s) **or**
-* short B- to both B1 & B2 (for 3s)
+* short some of the balance pads
+  * short B- to B1, for 4S **or**
+  * short B- to both B1 & B2, for 3S
 
 
 ## Balance Function
 
 ```
-Cells’ balance function is used to balance the cells’ capacity in a pack. When all voltages of VC1,
+Cellsâ€™ balance function is used to balance the cellsâ€™ capacity in a pack. When all voltages of VC1,
 (VC2-VC1), (VC3-VC2), (VC4-VC3) and (VC5-VC4) are lower or higher than VBAL , all the external balance
 discharge circuits will not work. Otherwise the cell, whose voltage is higher than VBAL, will turn on the
 external discharge circuit and make its voltage lower than VBAL. During charging, If the highest voltage of
