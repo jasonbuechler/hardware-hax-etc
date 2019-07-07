@@ -32,7 +32,7 @@ the capacity differences between batteries.
 # Charge and discharge functions using same contacts
 
 
-![](3s-contact-diagram.jpg) ![](4s-contact-diagram.jpg) ![](5s-synopline-diagram.jpg)
+![](3s-synopline-diagram.jpg) ![](4s-synopline-diagram.jpg) ![](5s-synopline-diagram.jpg)
 
 
 # Charge and discharge functions using different contacts
