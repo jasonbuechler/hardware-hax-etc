@@ -38,3 +38,14 @@
   * it's technically possible to find a 10-pack of high-drain cells for $35-$40: https://www.ebay.com/itm/302938203030
   * google how to verify capacity and drain-current
   * verify your cells are legit when they arrive and demand a refund if not
+
+## Proof of concept
+
+* 18650 cells fit almost perfectly inside 3/4" PVC tubing
+  * just enough extra space to run small gauge wires, e.g. for balancing
+* PVC caps press-fit quite securely, allowing for solderless series
+* Wire "knots" space the cells and engage the positive terminal (my cells weren't button-top)
+  * Yes it's a dirty kludge. But it's a proof-of-concept.
+* Larger "knots" within each end-cap allowed for "cushion" of sorts
+* Nickel shims slip right behind the OEM contacts
+  * Again, I know ;)  I wanted an easy-assemble, quick-n-dirty, proof-of-concept
