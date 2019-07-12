@@ -41,6 +41,8 @@
 
 ## Proof of concept
 
+![](pvc-collage.jpg)
+
 * 18650 cells fit almost perfectly inside 3/4" PVC tubing
   * just enough extra space to run small gauge wires, e.g. for balancing
 * PVC caps press-fit quite securely, allowing for solderless series
