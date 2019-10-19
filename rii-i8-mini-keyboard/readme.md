@@ -20,5 +20,5 @@ Some sources online also say alt-Esc or simply the 'm' key. These *did not* work
 * press and hold down the `F1` button/key
 * use slider switch to power on
   * note something about blue led
-* release the `F1` key
+* release the **`F1`** key
   * note another thing about blue led
