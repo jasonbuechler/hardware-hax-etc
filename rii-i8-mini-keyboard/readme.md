@@ -8,7 +8,7 @@ i dunno. if i figure it out, this is where it'll be.
 
 ### menu/hamburger/three lines/three dots button/key
 
-Use **control-Esc** combo to replicate menu button.
+Use **`control-Esc`** combo to replicate menu button.
 
 Some sources online also say alt-Esc or simply the 'm' key. These *did not* work for my bluetooth Rii i8+ for my 2nd-gen Fire TV "square".
 
@@ -17,7 +17,7 @@ Some sources online also say alt-Esc or simply the 'm' key. These *did not* work
 ## frozen? weird? need factory reset?
 
 * use slider switch to power off
-* press and hold down the `F1` button/key
+* press and hold down the **`F1`** button/key
 * use slider switch to power on
   * note something about blue led
 * release the **`F1`** key
